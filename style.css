@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: radial-gradient(circle at top, #1a1a1a, #000000);
+  background: radial-gradient(circle at top, #1c1c1c, #000000);
   color: #f5f5f5;
   text-align: center;
 }
@@ -46,3 +46,4 @@ p {
   border-radius: 12px;
   box-shadow: 0 0 30px rgba(245, 208, 122, 0.15);
 }
+
