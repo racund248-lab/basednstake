@@ -1,7 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: radial-gradient(circle at top, #1c1c1c, #000000);
+  background: radial-gradient(
+    circle at top,
+    #3a2f12 0%,
+    #1c1c1c 45%,
+    #000000 80%
+  );
   color: #f5f5f5;
   text-align: center;
 }
@@ -49,4 +54,5 @@ p {
 h1, h2 {
   color: #f5d07a;
 }
+
 
